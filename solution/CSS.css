@@ -1,0 +1,39 @@
+/*body{
+	background-color: green;
+}*/
+#header-nav {
+	background-color: gray;
+border-radius: 0;
+  
+}
+h1{
+	margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75
+  font-weight:bold;
+  color: black;
+  padding:0px auto 0px; 
+  float: right;
+  font-size: 30px;
+
+}
+/*
+button{
+	background-color: black;
+}*/
+.text-center{
+	font-size: 26px;
+}
+#long {
+	height: 1000px;
+	background-color: gray;
+	padding-right: 15px;
+	padding-left: 15px;
+	padding-top: 5px;
+}
+#chicken{
+	background-color: gray;
+	font-size: 16px;
+	text-align: center;
+	font-weight: bold;
+}
